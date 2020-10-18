@@ -18,3 +18,5 @@ Entering option 2 leads to the end of the chat.
 
 Objective:
 The main objective of the bot is to display the basic details of the state chosen by the user like literacy rate, language etc.
+![Knowledge Bot]
+(https://github.com/Susmitha0211/ChatBot/blob/main/code%20flow%20chart.ppt.pptx)
