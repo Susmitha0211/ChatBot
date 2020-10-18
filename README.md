@@ -4,7 +4,9 @@
 3. Reg no : 19pa1a0523
 # Protype for our Knowledgebot:
 Step 1:
+
 Greets the user
+
 Step 2:
 Asks the user to choose between two options
 The user was asked to enter the numbers either 1 or 
