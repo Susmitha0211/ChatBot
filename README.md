@@ -20,4 +20,4 @@ Objective:
 The main objective of the bot is to display the basic details of the state chosen by the user like literacy rate, language etc.
 
 # Block diagram representing flow of Knowledgebot
-(https://github.com/Susmitha0211/ChatBot/blob/main/code%20flow%20chart.ppt.pptx)
+
