@@ -22,3 +22,10 @@ The main objective of the bot is to display the basic details of the state chose
 # Block diagram representing flow of Knowledgebot
 
 https://github.com/Susmitha0211/ChatBot/blob/main/code%20flow%20chart.ppt%20(1).pptx
+
+To watch the video click on the following link:
+https://youtu.be/ljnZES2uPe0
+
+The source links we used to procure the information required for our bot are:
+https://iasexamportal.com/GK/Indian-States-Capitals-And-Languages
+https://www.nanavarna.com/28-statewise-tourist-attractions-in-india/
