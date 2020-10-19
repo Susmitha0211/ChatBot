@@ -27,6 +27,9 @@ https://github.com/Susmitha0211/ChatBot/blob/main/code%20flow%20chart.ppt%20(1).
 To watch the video click on the following link:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ljnZES2uPe0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+(Watch the video in 480p for clear appearance)
+
 The source links we used to procure the information required for our bot are:
 https://iasexamportal.com/GK/Indian-States-Capitals-And-Languages
+
 https://www.nanavarna.com/28-statewise-tourist-attractions-in-india/
