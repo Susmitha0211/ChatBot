@@ -24,7 +24,7 @@ The main objective of the bot is to display the basic details of the state chose
 https://github.com/Susmitha0211/ChatBot/blob/main/code%20flow%20chart.ppt%20(1).pptx
 
 To watch the video click on the following link:
-https://youtu.be/ljnZES2uPe0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ljnZES2uPe0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The source links we used to procure the information required for our bot are:
 https://iasexamportal.com/GK/Indian-States-Capitals-And-Languages
