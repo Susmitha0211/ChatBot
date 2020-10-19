@@ -1,8 +1,8 @@
 # ChatBot
 Team:
-1. Name : Batchu Mohana Priya     Reg no : 19pa1a0512
-2. Name : Bobba Susmitha          Reg no : 19pa1a0517
-3. Nmae : Chaganti Kavya Sri      Reg no : 19pa1a0523
+1. Name : Batchu Mohana Priya   .....  Reg no : 19pa1a0512
+2. Name : Bobba Susmitha       .....   Reg no : 19pa1a0517
+3. Nmae : Chaganti Kavya Sri  .....     Reg no : 19pa1a0523
 # Protype for our Knowledgebot:
 Step 1:
 Greets the user
